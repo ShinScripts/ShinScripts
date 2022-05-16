@@ -10,4 +10,4 @@
 <br>
 <br>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shinscripts&show_icons=true&locale=en" alt="shinscripts" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinscripts&layout=compact" alt="shinscripts" /></p>
